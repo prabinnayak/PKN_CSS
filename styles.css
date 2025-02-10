@@ -15,6 +15,6 @@ button{
 }
 .appbar{
   display: grid;
-  grid-template-columns: auto max-width auto;
+  grid-template-columns: auto max-content auto;
   justify-content: space-between;
 }
