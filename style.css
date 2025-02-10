@@ -8,3 +8,8 @@ button{
 .outlined{
   border: 1px solid #aaaaaa;
 }
+.center{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
