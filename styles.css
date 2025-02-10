@@ -13,3 +13,8 @@ button{
   align-items: center;
   justify-content: center;
 }
+.appbar{
+  display: grid;
+  grid-template-columns: auto max-width auto;
+  justify-content: space-between;
+}
