@@ -24,7 +24,9 @@ button, a{
   width: 100%;
   overflow-y: scroll;
 }
-.iconbutton{
-  padding: 10px;
-  text-align: center;
+.buttonbar{
+  display: grid;
+  grid-auto-flow: columns;
+  justify-content: center;
+  align-items: center;
 }
