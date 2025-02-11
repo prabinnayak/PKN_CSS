@@ -27,7 +27,7 @@ button, a{
 }
 .buttonbar{
   display: grid;
-  grid-auto-flow: columns;
+  grid-auto-flow: column;
   justify-content: center;
   align-items: center;
 }
